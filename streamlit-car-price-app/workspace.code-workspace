@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\.vscode"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\__pycache__"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\data"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\original"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\rotation"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\temp_file"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\temp_files"
+		},
+		{
+			"path": "..\\..\\Streamlit\\Day01\\눈물나게 잘하십니다 행님"
+		}
+	],
+	"settings": {}
+}
